@@ -2,7 +2,7 @@
   ![Badge for License](https://shields.io/badge/license-MIT-blue.svg)
 
 ## Description
- This application is a PWA text editor. The goal is to be able to run this text editor application in the browser and to be able to install it on your computer to run offline. This application is deployed to Heroku
+ This application is a PWA text editor. The goal is to be able to run this text editor application in the browser and to be able to install it on your computer to run offline. This application is deployed to Heroku.
 
 ## Table of contents
   * [Installation](#installation)
