@@ -14,13 +14,13 @@
   * [Questions](#questions)
 
 ## Installation
-  Use the command "npm i" to install neccessary packages to run this application.
+  Use the command "npm i" to install neccessary packages to run this application. Then run "npm run build" and "npm run start" to open the application.
 
 ## Usage
-  Link to Heroku goes here
+  https://travis2-6930baed8799.herokuapp.com/
 
 ## Display
-  ![Screenshots coming soon](link)
+  ![screenshot](./client/src/images/screenshot.png)
 
 ## License
   https://mit-license.org/
